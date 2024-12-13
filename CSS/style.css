@@ -1,0 +1,164 @@
+@font-face {
+    font-family: syncopate;
+    src: url(https://fonts.google.com/specimen/Syncopate);
+}
+
+/* for background images  */
+body{
+    background-image: url('https://s3-alpha-sig.figma.com/img/0bf1/1570/09c4f4ea3648237f5b52fe96908a7f3c?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cFceQLVhVV8Ko2u-51pVA7nEpmBgAHMuYGZA5jAByMWTMJrw8Dd5rIEjNom0D7KPfzSnrVYQdqfEitsIx6rty0Owwnj-bZLac~RLOfgeFVafVSGTqmnVskt27XmVwWSxnJWGg3BV86caxvfCSoDm5y2uRDQjtYwpXtnxCP9Vj0fi0ycpcc2q5n3KTG~YTjGlSgruyNmRbZB1CJAakLG9d05o7toYbB0-EZw7~rv0gxy-tCvgSB4GqWqUurqCLNz1zEL1vs67HW-14GRwL~id5tI8bQMMaymC-UEzVvBS0h5wdtfUCNIgTVd~Dmu3uWXkrhAq19B2j~nYFbRGpWGzTg__');
+    background-color: rgba(255,255,255,0.8);
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/* for title */
+h1{
+    font-family: "syncopate";
+    font-weight: 100;
+    font-size: 50px;
+}
+
+/* for navigation */
+a{
+    font-family: "syncopate";
+    font-weight: 100;
+}
+
+/* for paragraphs */
+p{
+    font-family: "syncopate";
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+/* hero-section */
+h2{
+    font-family: "syncopate";
+    font-weight: 400;
+    font-size: small;
+    padding: 300px;
+    padding-left: 75px;
+    padding-right: 0px;
+    position: relative;
+    display: inline-block;
+}
+
+/* for changes */
+h3{
+    font-family: "syncopate";
+    font-weight: 400;
+    font-size: small;
+    
+    padding-left: 100px;
+    padding-right: 0px;
+    position: relative;
+}
+
+/* page header */
+h4{
+    position: relative;
+    font-family: "syncopate";
+    font-weight: 500;
+    font-size: x-large;
+    padding: 25px;
+    margin-top: 5px;
+    background-color: #d9d9d9;
+    
+}
+
+/* used as blog titles */
+h5{
+    position: relative;
+    font-family: "syncopate";
+    font-weight: 500;
+    font-size: large;
+    padding: 25px;
+    margin-top: 50px;
+    
+}
+
+/* button on contact us */
+h6{
+    position: relative;
+    font-family: "syncopate";
+    font-weight: 500;
+    font-size: large;
+    color: white;
+}
+
+
+/* for nav bar */
+.navigation{
+    background-color: #fff1e3;
+    padding: 30px;
+    width: 100%;
+}
+
+/* for nav bar contents */
+.navigation ul li a{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+/* for nav bar contents */
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 100%;
+}
+
+/* for website name */
+.heading{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 100px;
+    width: 100%;
+}
+
+/* footer nav */
+.footer-section{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    padding-bottom: 38px;
+    line-height: 30px;
+    background-color: #232323;
+    justify-content: space-around;
+}
+
+/* footer nav */
+.footer-section ul li a{
+    font-size: 12px;
+    font-weight: 250;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+   
+}
+
+/* footer first column nav */
+.footer-section ul li a.head{
+    font-size: 15px;
+    font-weight: 250;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+   
+}
+
+/* footer different columns nav */
+.footer1,
+.footer2{
+    text-decoration: none;
+    list-style-type: none;
+}
+
