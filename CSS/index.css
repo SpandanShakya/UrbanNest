@@ -49,15 +49,12 @@ input[type=checkbox]{
 /* For hero section on Index */
 .hero1{
     display: flex;
-    background-image: url('https://s3-alpha-sig.figma.com/img/bf94/942f/2efd913a7652bde33c13a9678fd83870?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=K9bGE1gfpOM8dPjrsh4KSjQhoIxUcFRRYvPWIwVpiklUoP~MX2KUucdPTJMJLnO1xmeKFiM16in8FMto~fVj3q1CzVQOp67aFIRmUebcrDlRLJUgfDa8KWKsuSgGWWohCA7OeuTJhS3cXiG-wcPUsyo-fklUuynkiR~dsqqkEElhcGgdoPb3ozwSB2e-DG8aKOgBDdz3vuJVeeTu-6ZokRVsUsRZZEtNUlNidGTbl87YQzfdIgSVKa0hOlqYrmU0-N2SWA00fq0SUMUpMBx~FcrEeHcVGfJCozBrz6krvV3M-fkxswAwBJvLdd7TyhL9oMoW0MMGx7LXag7N7PXSjA__');
-    background-size: cover;
-    background-position: 100vw;
     background-color: rgba(255,255,255,0.7);
     background-blend-mode: lighten;
     text-align: left;
     margin: 0;
     padding: 50px 0px 50px 0px;
-    width: 100vw;
+    width: 100%;
     justify-content: space-evenly;
   
 }
@@ -65,9 +62,6 @@ input[type=checkbox]{
 /* For hero section on Index */
 .hero2{
     display: flex;
-    background-image: url('https://s3-alpha-sig.figma.com/img/75a1/8eb5/4fab3154b1b61c4939eedd51a6d7cead?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DoRycqxSmSpatW6kjzcZUzvhKvYDjSrud2RXVzQsTbot37JkrQiT6weIWMgMezSykldh~x7hP3CnDGFOnl8ThPCyjn0r5AZ~8xXJaDKhQvgjKg8GQvWnuVy2tx6rFIOlzycUqGUpjw3ciSmMRPM6XKVetfzjZnjs9s1kFWZW3HeBvGGJLU2eOhFwrQ1~1zMwWlYEQS4263vJb6HhzJjYxuW-cF-MMHaIAw7bKzBfH29pr27uthJV-sVXXhJ-DvS-DQrwmFRtuVPlrzkuF31cODmzMiOy6SURNQFNijgg49-sQDI2tc4Tz-XNmJGn2zum68NRVM~Qd8gRjvCBOTiJ8A__');
-    background-size: cover;
-    background-position: 100%;
     background-color: rgba(255,255,255,0.7);
     background-blend-mode: lighten;
     text-align: start;
@@ -80,9 +74,6 @@ input[type=checkbox]{
 .hero3{
     display: flex;
     flex-direction: column;
-    background-image: url('https://s3-alpha-sig.figma.com/img/8e80/f0e6/4bd9da8f69c9c30d06f37dfbd7100146?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aYdSPG4XO9doJP0NcRxIVjIMHvZOwzsmFAYaoxRt-w0Q5x4E5EDd2TjsNBXEsKaHLVjr2Lkulzpd7d50dtZ3Fx8TohYUc1tG1f3oWU~SYNZ1pZ5LwZ8MNrOBGZlF0PGDLjNNfeFM8JGmYxXcG9N5KehiQk1o6y4GjxGtYAxld9B0umO9eHvOtmS5jwGlzdkTRx546Ut9YH9XsRaxdiuMTrSgYFfJDfEHv6nfWWmzSoiqlMXU1DxXewUBWl9Qd2tmxB1ywCRGjF-XJbEfuL-aTbD9BrPeF8OkUiqFYeQwxNq7FAZseKPAaytwo0TQcacHfOH36DOZekKQTIbmcGkNPg__');
-    background-size: cover;
-    background-position: 100%;
     background-color: rgba(255,255,255,0.5);
     background-blend-mode: lighten;
     text-align: center;
