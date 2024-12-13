@@ -5,7 +5,7 @@
 
 /* for background images  */
 body{
-    background-image: url('https://s3-alpha-sig.figma.com/img/0bf1/1570/09c4f4ea3648237f5b52fe96908a7f3c?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cFceQLVhVV8Ko2u-51pVA7nEpmBgAHMuYGZA5jAByMWTMJrw8Dd5rIEjNom0D7KPfzSnrVYQdqfEitsIx6rty0Owwnj-bZLac~RLOfgeFVafVSGTqmnVskt27XmVwWSxnJWGg3BV86caxvfCSoDm5y2uRDQjtYwpXtnxCP9Vj0fi0ycpcc2q5n3KTG~YTjGlSgruyNmRbZB1CJAakLG9d05o7toYbB0-EZw7~rv0gxy-tCvgSB4GqWqUurqCLNz1zEL1vs67HW-14GRwL~id5tI8bQMMaymC-UEzVvBS0h5wdtfUCNIgTVd~Dmu3uWXkrhAq19B2j~nYFbRGpWGzTg__');
+    background-image: url("../Images/background.jpg");
     background-color: rgba(255,255,255,0.8);
     background-blend-mode: lighten;
     background-repeat: no-repeat;
